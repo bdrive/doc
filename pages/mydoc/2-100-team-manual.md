@@ -7,11 +7,13 @@ toc: false
 hide_sidebar: false
 ---
 
-### **Add Team Member**
+### **Add Team Members**
 
 There are two ways to add TEAM members - by MEMBERS or by DOMAINS. 
 
 **Add by MEMBERS**
+
+(그림)
 
 1. Log in with Team Admin ID and go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
@@ -33,6 +35,8 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 
 **Add by DOMAINS**
+
+(그림)
 
 1. Log in with Team Admin ID and go to DOMAINS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
