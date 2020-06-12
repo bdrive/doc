@@ -13,10 +13,9 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 **Add by MEMBERS**
 
-1.	Log in with Team Admin ID and
-go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
+1.Log in with Team Admin ID and go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
-2.	Add Team members 
+2.Add Team members 
 
 ‐	Each member may create their account IDs in https://accounts.bdrive.com/accounts/signup beforehand.  Email verification is required before logging in to the software.
 
@@ -24,9 +23,9 @@ go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
 ‐	(Option: We can register your members if you send us CSV file)
 
-3.	License quantity needs to be assigned for each member.
+3.License quantity needs to be assigned for each member.
 
-4.	Team account information can be changed anytime as needed 
+4.Team account information can be changed anytime as needed 
 
 ‐	Add/Remove Member and assign license quantity
 
@@ -35,22 +34,21 @@ go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
 **Add by DOMAINS**
 
-1.	Log in with Team Admin ID and
-go to DOMAINS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
+1.Log in with Team Admin ID and go to DOMAINS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
 
-2.	Admin can register up to 2 domains.  Domain Verification is required.
+2.Admin can register up to 2 domains.  Domain Verification is required.
 
 ‐	Read ‘How to verify domain ownership’ before registering you domains.
 
 ‐	In the moment of verification, existing email account IDs under these domains will be automatically added in MEMBERS tab by default.
 
-3.	Add Team members
+3.Add Team members
 
 ‐	Follow the steps described in Add by MEMBERS
 
 ‐	(Note: Unlimited plan does not have to add members)
 
-4.	Team account information can be changed in MEMBERS / DOMAINS tab anytime as needed.
+4.Team account information can be changed in MEMBERS / DOMAINS tab anytime as needed.
 
 
 
