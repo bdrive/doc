@@ -74,6 +74,8 @@ We assist to add multiple Team members using CSV file, so write to our [**Suppor
 
 As a simple guide, [**Team Manual**](#wiki-toc-team-manual) is emailed to Team admin account ID upon license purchase completion and it can be downloaded in [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ as well.
 
+
+
 ### **Team Manual**
 
 A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
@@ -81,4 +83,6 @@ A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downl
 _Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed.
 _
 
+
+### **About Team Licenses**
 
