@@ -80,9 +80,8 @@ As a simple guide, [**Team Manual**](#wiki-toc-team-manual) is emailed to Team a
 
 A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
-_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed.
-_
+_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed._
 
 
-### **About Team Licenses**
+### **About License**
 
