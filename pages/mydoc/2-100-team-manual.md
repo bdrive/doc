@@ -84,6 +84,6 @@ _Note our Team manual is emailed to Team admin account ID immediately after the 
 
 
 
-### **Licenses and Terms of Use**
+### **Genaral Information on Licenses and Terms of Use**
 
 General information about software license can be found in [**License**](#wiki-toc-license).
