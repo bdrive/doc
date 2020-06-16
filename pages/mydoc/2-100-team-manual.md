@@ -65,8 +65,7 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
-_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed._
-
+_Team manual will be emailed to Team admin immediately after the purchase._
 
 
 ### **General Information on Licenses and Terms of Use**
