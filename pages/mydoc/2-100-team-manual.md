@@ -86,5 +86,4 @@ _Note our Team manual is emailed to Team admin account ID immediately after the 
 
 ### **General Information on Licenses and Terms of Use**
 
-General information about software license can be found in [**License**](#wiki-toc-license).  
-Information can be found in our [Webpage](https://www.bdrive.com) as well.
+General information about software license can be found in [**License**](#wiki-toc-license) section and [Bdrive Website](https://www.bdrive.com) includes the information as well.
