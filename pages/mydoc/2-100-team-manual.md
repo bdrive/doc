@@ -23,15 +23,15 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
    *	For those who did not create their Bdrive account IDs yet in the moment of adding member, a ‘Verification Email with Temporary Password’ will be sent to log in.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset).
 
-   ‐	(Option: We can register your members if you send us CSV file)
+   *	(Option: We can register your members if you send us CSV file)
 
 3. License quantity needs to be assigned for each member.
 
 4. Team account information can be changed anytime as needed 
 
-   ‐	Add/Remove Member and assign license quantity
+   *	Add/Remove Member and assign license quantity
 
-   ‐	Change Admin and Maintainer
+   *	Change Admin and Maintainer
 
 
 **Add by DOMAINS**
