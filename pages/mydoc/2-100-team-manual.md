@@ -13,15 +13,15 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 **Add by MEMBERS**
 
-(그림)
+<p>Screenshot of accounts page: <img src="img/by_members.jpg" alt="gras" /></p>
 
-1. Log in with Team Admin ID and go to MERMERS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
+1. Log in with Team Admin ID and go to MERMERS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Add Team members 
 
-   ‐	Each member may create their account IDs in https://accounts.bdrive.com/accounts/signup beforehand.  Email verification is required before logging in to the software.
+   ‐	Each member may create their account IDs in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) beforehand.  Email verification is required before logging in to the software.
 
-   ‐	For those who did not create their Bdrive account IDs yet in the moment of adding member, a ‘Verification Email with Temporary Password’ will be sent to log in.  It is highly suggested to change the password in https://accounts.bdrive.com/accounts/password/reset.
+   ‐	For those who did not create their Bdrive account IDs yet in the moment of adding member, a ‘Verification Email with Temporary Password’ will be sent to log in.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset).
 
    ‐	(Option: We can register your members if you send us CSV file)
 
@@ -36,9 +36,9 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 **Add by DOMAINS**
 
-(그림)
+<p>Screenshot of accounts page: <img src="img/by_domains.jpg" alt="gras" /></p>
 
-1. Log in with Team Admin ID and go to DOMAINS tab of https://accounts.bdrive.com/plans_products/NetDrive3/team/.
+1. Log in with Team Admin ID and go to DOMAINS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Admin can register up to 2 domains.  Domain Verification is required.
 
@@ -83,5 +83,7 @@ A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downl
 _Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed._
 
 
-### **About License**
 
+### **Licenses and Terms of Use**
+
+General information about software license can be found in [**License**](#wiki-toc-license).
