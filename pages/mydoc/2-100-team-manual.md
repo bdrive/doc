@@ -42,19 +42,19 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 2. Admin can register up to 2 domains.  Domain Verification is required.
 
-   ‐	Read ‘How to verify domain ownership’ before registering you domains.
+   *	Read ‘How to verify domain ownership’ before registering you domains.
 
-   ‐	In the moment of verification, existing email account IDs under these domains will be automatically added in MEMBERS tab by default.
+   *	In the moment of verification, existing email account IDs under these domains will be automatically added in MEMBERS tab by default.
 
 3. Add Team members
 
-   ‐	Follow the steps described in Add by MEMBERS
+   *	Follow the steps described in Add by MEMBERS
 
-   ‐	(Note: Unlimited plan does not have to add members)
+   *	(Note: Unlimited plan does not have to add members)
 
 4. Team account information can be changed in MEMBERS / DOMAINS tab anytime as needed.
 
-
+/br/br
 
 (아래는 원래 내용 복사)
 
