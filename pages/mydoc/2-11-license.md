@@ -55,8 +55,7 @@ _Note Yearly Subscription allows both add and remove license option whereas Life
 
 _Note support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
 
-_Note remove license is limited one time per day.
-_
+_Note remove license is limited one time per day._
 
 ### **Add Team Member**
 
@@ -80,8 +79,7 @@ As a simple guide, [**Team Manual**](#wiki-toc-team-manual) is emailed to Team a
 
 A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
-_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed.
-_
+_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed._
 
 ### **Account Site**
 
@@ -125,8 +123,7 @@ In case of lost or need for a change, the password can be reset with correct acc
 
 Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ anytime.
 
-_Note user email account ID is used by default if current third party is removed.
-_
+_Note user email account ID is used by default if current third party is removed._
 
 ### **Invoice Link**
 
@@ -140,8 +137,7 @@ User credit card information can be updated by logging in to our payment gateway
 
 1. Then, once logged in with BlueSnap user account, click on the 'Change' button under the payment method column where the change of information is able.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#wiki-toc-support-site) (https://support.bdrive.com) with user account ID and transaction ID.
-_
+_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#wiki-toc-support-site) (https://support.bdrive.com) with user account ID and transaction ID._
 
 ### **End Subscription**
 
