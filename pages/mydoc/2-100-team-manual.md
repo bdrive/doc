@@ -19,9 +19,9 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 2. Add Team members 
 
-   ‐	Each member may create their account IDs in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) beforehand.  Email verification is required before logging in to the software.
+‐	Each member may create their account IDs in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) beforehand.  Email verification is required before logging in to the software.
 
-   ‐	For those who did not create their Bdrive account IDs yet in the moment of adding member, a ‘Verification Email with Temporary Password’ will be sent to log in.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset).
+‐	For those who did not create their Bdrive account IDs yet in the moment of adding member, a ‘Verification Email with Temporary Password’ will be sent to log in.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset).
 
    ‐	(Option: We can register your members if you send us CSV file)
 
