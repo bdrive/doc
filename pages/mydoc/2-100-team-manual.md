@@ -63,11 +63,11 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 ### **Team Manual**
 
-A simple manual to [**Add Team Member**](#add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
+A simple manual to [**Add Team Member**](2-14-license#add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
 _Team manual will be emailed to Team admin immediately after the purchase._
 
 
 ### **General Information on Licenses and Terms of Use**
 
-General information about software license can be found in [License](3-14-license) page and [Bdrive Website](https://www.bdrive.com) as well.
+General information about software license can be found in [License](2-14-license) page and [Bdrive Website](https://www.bdrive.com) as well.
