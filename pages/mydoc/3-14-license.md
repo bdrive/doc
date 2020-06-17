@@ -9,13 +9,13 @@ hide_sidebar: false
 
 ### **CloudSync License**
 
-Each customer needs to [**Create Account ID**](#wiki-toc-create-account-id) in order to purchase and login to CloudSync software. CloudSync does not use license number and it always needs to be connected to the Internet while using.
+Each customer needs to [**Create Account ID**](#create-account-id) in order to purchase and login to CloudSync software. CloudSync does not use license number and it always needs to be connected to the Internet while using.
 
 A trial version is available in [**Bdrive website**](https://cloudsync.bdrive.com/#pricing) _(https://cloudsync.bdrive.com/#pricing)_ and it is recommended to check our software prior to the purchase.
 
 ‘**License**’ is defined as the number of software that can be used concurrently in any device, and each customer can purchase as many licenses as needed.
 
-Once the license purchase is successfully completed, no-reply confirmation email is immediately sent to user account ID along with the invoice link. Useful license information can also be found in [**Account Site**](#wiki-toc-account-site) _(https://accounts.bdrive.com)_.
+Once the license purchase is successfully completed, no-reply confirmation email is immediately sent to user account ID along with the invoice link. Useful license information can also be found in [**Account Site**](#account-site) _(https://accounts.bdrive.com)_.
 
 _Note each account ID can purchase only one license type._
 
@@ -25,17 +25,17 @@ CloudSync has two kinds of plans, Personal and Team, which can be found in [**Bd
 
 - [‘**Personal Plan**’](https://cloudsync.bdrive.com/#tab-3) is generally for personal use which allows only a single account ID whether customer purchases one or multiple licenses. In case of multiple Personal licenses, _same drive items_ are used among the devices and mounted drives/contents are accessible to other Windows users on the same device.
 
-- [‘**Team Plan**’](https://cloudsync.bdrive.com/#tab-4) can have respective account ID for each Team member. After the purchase, Team admin must [**Add Team Member**](#wiki-toc-add-team-member) in [**Account Site**](#wiki-toc-account-site) _(https://accounts.bdrive.com)_. Unlike Personal plan, each Team member has _their own drive items_ and mounted drives are not visible to other Windows users on the same devices.
+- [‘**Team Plan**’](https://cloudsync.bdrive.com/#tab-4) can have respective account ID for each Team member. After the purchase, Team admin must [**Add Team Member**](#add-team-member) in [**Account Site**](#account-site) _(https://accounts.bdrive.com)_. Unlike Personal plan, each Team member has _their own drive items_ and mounted drives are not visible to other Windows users on the same devices.
 
 ### **License Types**
 
 Two types of CloudSync licenses are available, subscription based and onetime purchase.
 
-- ‘**Yearly Subscription**’ can use the license during subscription period along with customer support and update. It is very important to know about [**Subscription Auto-Renewal**](#wiki-toc-subscription-auto-renewal) which will be auto-charged on the initial purchased day of next year, using the same payment method.
+- ‘**Yearly Subscription**’ can use the license during subscription period along with customer support and update. It is very important to know about [**Subscription Auto-Renewal**](#subscription-auto-renewal) which will be auto-charged on the initial purchased day of next year, using the same payment method.
 
 - ‘**Lifetime License**’ literally can be used during product lifetime with selection of ‘_support and update_’ period, either 1 year or lifetime.
 
-  - In case of **‘1 year’ support and update option**, the license can be used for product lifetime with limited support and update of 1 year. For the customers who further need support and update after 1 year expired, additional [**Lifetime Support Option**](#wiki-toc-lifetime-support-option) is available. Detailed information can be found in the article ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018).
+  - In case of **‘1 year’ support and update option**, the license can be used for product lifetime with limited support and update of 1 year. For the customers who further need support and update after 1 year expired, additional [**Lifetime Support Option**](#lifetime-support-option) is available. Detailed information can be found in the article ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018).
 
   - In case of **‘lifetime’ support and update option**, the license will last during product lifetime along with support and update.
 
@@ -47,7 +47,7 @@ License can be added connected to initial purchase order at 'add license' price.
 
 When placing an add license order, the followings will be proceeded for each plan below:
 
-- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order (for 1 year) will be issued for total license quantities at adjusted total price. It is important to know that this order will be auto-renewed on this day, annually, as explained in [**Subscription Auto-Renewal**](#wiki-toc-subscription-auto-renewal).
+- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order (for 1 year) will be issued for total license quantities at adjusted total price. It is important to know that this order will be auto-renewed on this day, annually, as explained in [**Subscription Auto-Renewal**](#subscription-auto-renewal).
 
 - ‘**Lifetime License**’ will issue individual purchase order for each add license request at corresponding add license price.
 
@@ -64,28 +64,28 @@ After the Team license purchase is completed, Team admin is required to add memb
 
 There are 2 ways to add Team members and it can be proceeded in [**https://accounts.bdrive.com/plans_products/CloudSync/team**](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
-- The simplest way is to add Team members manually. Within available license quantity, Team admin can add members and assign license quantity per member. It is important that each Team member must [**Create Account IDs**](#wiki-toc-create-account-id) prior to add team member.
+- The simplest way is to add Team members manually. Within available license quantity, Team admin can add members and assign license quantity per member. It is important that each Team member must [**Create Account IDs**](#create-account-id) prior to add team member.
 
-- For bulk licenses, it is more popular to register the domain. Once the domain is successfully registered, there is no need for Team admin to register each member under corresponding domain manually. Each Team member, however, is required to [**Create Account IDs**](#wiki-toc-create-account-id) before login to NetDrive software. Team account can utilize both ‘domain register’ and ‘Add Team members’ in combination. Maximum 2 domains can be registered.
+- For bulk licenses, it is more popular to register the domain. Once the domain is successfully registered, there is no need for Team admin to register each member under corresponding domain manually. Each Team member, however, is required to [**Create Account IDs**](#create-account-id) before login to NetDrive software. Team account can utilize both ‘domain register’ and ‘Add Team members’ in combination. Maximum 2 domains can be registered.
 
 - For unlimited licenses, only domain registering (maximum 2) is available. Note manual add Team members is not able.
 
-License quantity, by default, is set to 1 per user and it can be changed anytime within available quantity. License quantity and Team members can be changed (add/deactivate/remove user, reactivate domain user) in [**Account Site**](#wiki-toc-account-site) _(https://accounts.bdrive.com)_ anytime.
+License quantity, by default, is set to 1 per user and it can be changed anytime within available quantity. License quantity and Team members can be changed (add/deactivate/remove user, reactivate domain user) in [**Account Site**](#account-site) _(https://accounts.bdrive.com)_ anytime.
 
-We assist to add multiple Team members using CSV file, so write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with CSV file and Team admin account ID.
+We assist to add multiple Team members using CSV file, so write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with CSV file and Team admin account ID.
 
-As a simple guide, [**Team Manual**](#wiki-toc-team-manual) is emailed to Team admin account ID upon license purchase completion and it can be downloaded in [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ as well.
+As a simple guide, [**Team Manual**](#team-manual) is emailed to Team admin account ID upon license purchase completion and it can be downloaded in [**Support Site**](#support-site) _(https://support.bdrive.com)_ as well.
 
 ### **Team Manual**
 
-A simple manual to [**Add Team Member**](#wiki-toc-add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
+A simple manual to [**Add Team Member**](#add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
 _Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed.
 _
 
 ### **Account Site**
 
-Each customer needs to [**Create Account ID**](#wiki-toc-create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#wiki-toc-reset-password), [**Change Login Method**](#wiki-toc-change-login-method), [**Invoice Link**](#wiki-toc-invoice-link), [**Add License**](/wiki/netdrive/license#wiki-toc-add-license), [**Add Team Member**](#wiki-toc-add-team-member), [**Support Site**](#wiki-toc-support-site), etc.
+Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](/wiki/netdrive/license#add-license), [**Add Team Member**](#add-team-member), [**Support Site**](#support-site), etc.
 
 ### **Subscription Auto-Renewal**
 
@@ -93,7 +93,7 @@ Yearly Subscription continues yearly base by auto-charging on the initial purcha
 
 User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in our payment gateway, BlueSnap.
 
-For any reason, if you need to stop yearly subscription, check [**End Subscription**](#wiki-toc-end-subscription) and [**Refund Policy**](#wiki-toc-refund-policy) first and then write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
+For any reason, if you need to stop yearly subscription, check [**End Subscription**](#end-subscription) and [**Refund Policy**](#refund-policy) first and then write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
 
 ### **Lifetime Support Option**
 
@@ -105,17 +105,17 @@ If purchased multiple license quantities, the lifetime support option can only b
 
 Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
 
-Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#wiki-toc-change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
+Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
 
-We support to [**Change Account ID**](#wiki-toc-change-account-id) and [**Reset Password**](#wiki-toc-reset-password) as well.
+We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
 
 ### **Change Account ID**
 
-We assist to transfer current license to a new account ID. Prior to the transfer, this new account ID needs to be created in [**Create Account ID**](#wiki-toc-create-account-id). This transfer simply changes the user account ID, and the original information (card holder and address) remains fixed.
+We assist to transfer current license to a new account ID. Prior to the transfer, this new account ID needs to be created in [**Create Account ID**](#create-account-id). This transfer simply changes the user account ID, and the original information (card holder and address) remains fixed.
 
 When transferring the license, we handle the entire licenses under current account ID as a whole, meaning that we do not transfer part of the licenses. Also, it is not possible to transfer to an account ID that already has paid licenses.
 
-To request to change account ID, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with current account ID and new account ID.
+To request to change account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with current account ID and new account ID.
 
 ### **Reset Password**
 
@@ -136,33 +136,33 @@ We provide invoice link of each purchase order in [**Accounts category in Accoun
 
 User credit card information can be updated by logging in to our payment gateway, BlueSnap account _(https://cp.bluesnap.com/jsp/account_login.jsp)_.
 
-- Prior to this change, write to [**Bdrive Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
+- Prior to this change, write to [**Bdrive Support Site**](#support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
 
 - Then, once logged in with BlueSnap user account, click on the 'Change' button under the payment method column where the change of information is able.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#wiki-toc-support-site) (https://support.bdrive.com) with user account ID and transaction ID.
+_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID.
 _
 
 ### **End Subscription**
 
-To end yearly subscription, it is recommended to check [**Refund Policy**](#wiki-toc-refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
+To end yearly subscription, it is recommended to check [**Refund Policy**](#refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
 If requested to stop the subscription within 14 days _after_ the purchase or renewal date, we cancel current subscription order and partial refund by applying prorating. If requested _after_ 14 days, we do not cancel current subscription but only stop auto-charge of next subscription. There is no refund on current subscription order.
 
-To request to stop the subscription, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+To request to stop the subscription, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
 
 ### **Delete Account ID**
 
 We delete user account ID by deleting all personal information in our system.
 
-To request to delete account ID, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with account ID.
+To request to delete account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID.
 
 ### **Refund Policy**
 
 Bdrive refunds for the purchase orders requested _**within 14 days**_ after the purchase date. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
 Refunds are returned to the payment method used to make the original purchase. Refunds take about 3-10 business days which can be affected by the card issuer.
-To request a refund, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+To request a refund, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
 
 ### **Support Site**
 

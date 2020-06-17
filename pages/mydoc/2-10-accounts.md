@@ -9,7 +9,7 @@ hide_sidebar: false
 
 # **Account Site**
 
-Each customer needs to [**Create Account ID**](#wiki-toc-create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#wiki-toc-reset-password), [**Change Login Method**](#wiki-toc-change-login-method), [**Invoice Link**](#wiki-toc-invoice-link), [**Add License**](/wiki/netdrive/license#wiki-toc-add-license), [**Add Team Member**](/wiki/netdrive/license#wiki-toc-add-team-member), [**Support Site**](#wiki-toc-support-site), etc.
+Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](/wiki/netdrive/license#add-license), [**Add Team Member**](/wiki/netdrive/license#add-team-member), [**Support Site**](#support-site), etc.
 
 # **Subscription Auto-Renewal**
 
@@ -17,7 +17,7 @@ Yearly Subscription continues yearly base by auto-charging on the initial purcha
 
 User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in our payment gateway, BlueSnap.
 
-For any reason, if you need to stop yearly subscription, check [**End Subscription**](#wiki-toc-end-subscription) and [**Refund Policy**](#wiki-toc-refund-policy) first and then write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
+For any reason, if you need to stop yearly subscription, check [**End Subscription**](#end-subscription) and [**Refund Policy**](#refund-policy) first and then write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
 
 # **Lifetime Support Option**
 
@@ -29,17 +29,17 @@ If purchased multiple license quantities, the lifetime support option can only b
 
 Prior to purchase or login to NetDrive3, every customer needs to create their own Bdrive account ID and set password in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup). This account ID is required to be verified (in the email sent) before using the software. This account ID is primary identification we use to send email verification, license confirmation, support contact, renewal notification, etc.
 
-Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#wiki-toc-change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
+Third party login option of Google, Twitter, or Google is provided, and [**Change Login Method**](#change-login-method) is also available in [**Accounts category of Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_.
 
-We support to [**Change Account ID**](#wiki-toc-change-account-id) and [**Reset Password**](#wiki-toc-reset-password) as well.
+We support to [**Change Account ID**](#change-account-id) and [**Reset Password**](#reset-password) as well.
 
 # **Change Account ID**
 
-We assist to transfer current license to a new account ID. Prior to the transfer, this new account ID needs to be created in [**Create Account ID**](#wiki-toc-create-account-id). This transfer simply changes the user account ID, and the original information (card holder and address) remains fixed.
+We assist to transfer current license to a new account ID. Prior to the transfer, this new account ID needs to be created in [**Create Account ID**](#create-account-id). This transfer simply changes the user account ID, and the original information (card holder and address) remains fixed.
 
 When transferring the license, we handle the entire licenses under current account ID as a whole, meaning that we do not transfer part of the licenses. Also, it is not possible to transfer to an account ID that already has paid licenses.
 
-To request to change account ID, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with current account ID and new account ID.
+To request to change account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with current account ID and new account ID.
 
 # **Reset Password**
 
@@ -60,33 +60,33 @@ We provide invoice link of each purchase order in [**Accounts category of Accoun
 
 User credit card information can be updated by logging in to our payment gateway, BlueSnap account _(https://cp.bluesnap.com/jsp/account_login.jsp)_.
 
-1. Prior to this change, write to [**Bdrive Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
+1. Prior to this change, write to [**Bdrive Support Site**](#support-site) _(https://support.bdrive.com)_ to find pre-generated username and password of BlueSnap. This is different from Bdrive account ID and password.
 
 1. Then, once logged in with BlueSnap user account, click on the 'Change' button under the payment method column where the change of information is able.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#wiki-toc-support-site) (https://support.bdrive.com) with user account ID and transaction ID.
+_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID.
 _
 
 # **End Subscription**
 
-To end yearly subscription, it is recommended to check [**Refund Policy**](#wiki-toc-refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
+To end yearly subscription, it is recommended to check [**Refund Policy**](#refund-policy) first. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
 If requested to stop the subscription within 14 days _after_ the purchase or renewal date, we cancel current subscription order and partial refund by applying prorating. If requested _after_ 14 days, we do not cancel current subscription but only stop auto-charge of next subscription. There is no refund on current subscription order.
 
-To request to stop the subscription, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+To request to stop the subscription, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
 
 # **Delete Account ID**
 
 We delete user account ID by deleting all personal information in our system. Once user account ID is deleted, trial version is not possible to use anymore.
 
-To request to delete account ID, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with account ID.
+To request to delete account ID, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID.
 
 # **Refund Policy**
 
 Bdrive refunds for the purchase orders requested _within_ 14 days after the purchase date. Refund policy is stated in [**Terms and Conditions of End User License Agreement (EULA)**](http://www.netdrive.net/eula) _(http://www.netdrive.net/eula)_ as well.
 
 Refunds are returned to the payment method used to make the original purchase. Refunds take about 3-10 business days which can be affected by the card issuer.
-To request a refund, write to our [**Support Site**](#wiki-toc-support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
+To request a refund, write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with user account ID and transaction ID.
 
 # **Support Site**
 
