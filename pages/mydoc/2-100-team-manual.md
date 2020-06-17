@@ -13,7 +13,7 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 **Add by MEMBERS**
 
-{% include inline_image.html file="by_members.jpg" max-width="200" %}
+{% include inline_image.html file="by_members.png" max-width="200" %}
 
 1. Log in with Team Admin ID and go to MERMERS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
@@ -36,7 +36,7 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 **Add by DOMAINS**
 
-{% include inline_image.html file="by_domains.jpg" max-width="200" %}
+{% include inline_image.html file="by_domains.png" max-width="200" %}
 
 1. Log in with Team Admin ID and go to DOMAINS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
