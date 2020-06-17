@@ -85,7 +85,7 @@ _
 
 ### **Account Site**
 
-Each customer needs to [**Create Account ID**](#wiki-toc-create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#wiki-toc-reset-password), [**Change Login Method**](#wiki-toc-change-login-method), [**Invoice Link**](#wiki-toc-invoice-link), [**Add License**](/wiki/netdrive/license#wiki-toc-add-license), [**Add Team Member**](#wiki-toc-add-team-member), [**Support Site**](#wiki-toc-support-site), etc.
+Each customer needs to [**Create Account ID**](#create-account-id) prior to purchase and login to NetDrive3 software. Account Site is [**https://accounts.bdrive.com**](https://accounts.bdrive.com) and includes Login Information, [**Reset Password**](#reset-password), [**Change Login Method**](#change-login-method), [**Invoice Link**](#invoice-link), [**Add License**](2-11-license#add-license), [**Add Team Member**](#add-team-member), [**Support Site**](#support-site), etc.
 
 ### **Subscription Auto-Renewal**
 
