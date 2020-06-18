@@ -96,5 +96,5 @@ It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member
 
 ### **General Information on License Terms**
 
-General information can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).
+General information can be found in [NetDrive License](2-11-license) and [Bdrive Website](https://www.bdrive.com).
 
