@@ -10,7 +10,7 @@ hide_sidebar: false
 
 ### **Team Preview**
 
-A quick preview on Team license is recommended in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions such as team drive and file lock is waiting for your team work and remote jobs.
+A quick preview on Team license is recommended in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions such as team drive and file lock is waiting for your team work and remote jobs.<br>
 
 
 
