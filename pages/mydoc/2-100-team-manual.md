@@ -61,7 +61,7 @@ There are two ways to add TEAM members - by Members or by Domains.
 
 3. Add Team members under the registered domains 
 
-   * Add Bdrive email ID of each Team member at the bottom of the page (follow the steps described in Add by MEMBERS above)
+   * Add Bdrive email ID of each Team member at the bottom of the page (follow the steps described in Add by Members above)
    
       * Unlimited plan is not required to add members
 
