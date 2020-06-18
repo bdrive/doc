@@ -17,14 +17,14 @@ A quick preview on Team license is recommended in [https://www.netdrive.net/team
 
 ### **Add Team Members**
 
-There are two ways to add TEAM members - by MEMBERS or by DOMAINS. 
+There are two ways to add TEAM members - by Members or by Domains. 
 
 
-**Add by MEMBERS**
+**Add by Members**
 
 {% include inline_image.html file="by_members.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to MERMERS tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Add Team members 
 
@@ -43,11 +43,11 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
    *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer
 
 
-**Add by DOMAINS**
+**Add by Domains**
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to DOMAINS tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to Domains tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Register Domains
 
@@ -72,9 +72,9 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 
 
-### **Team Admin and Maintainer**
+### **Team Admin / Team Maintainer**
 
-Team account has distinct role of Team Admin and Maintainer.
+Team account has distinct role of Team Admin and Team  Maintainer.
 
 * Team Admin can manage team account such as add members, add domains, purchase licenses, etc.
 
@@ -88,14 +88,14 @@ By default, Team Admin has Team Maintainer role and it can be assigned to anothe
 
 ### **Team Manual**
 
-Team manual will be auto-emailed to Team Admin ID right after the purchase.
+Team manual is auto-emailed to Team Admin email right after the purchase completion.
 
-In case you did not receive the manual, it can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
-
-
+It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.
 
 
-### **General Information on Licenses and Terms of Use**
 
-General information about software license can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).
+
+### **General Information on License Terms**
+
+General information can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).
 
