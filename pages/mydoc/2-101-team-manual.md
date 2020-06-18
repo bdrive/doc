@@ -2,7 +2,7 @@
 title: Team Manual
 keywords:
 sidebar: netdrive_sidebar
-permalink: 2-100-team-manual.html
+permalink: 2-101-team-manual.html
 toc: false
 hide_sidebar: false
 ---
