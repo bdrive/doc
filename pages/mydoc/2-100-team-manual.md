@@ -10,14 +10,14 @@ hide_sidebar: false
 
 ### **Team Preview**
 
-A quick preview on Team license is available in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions of team drive and file lock is provided for your team work and remote jobs.<br><br><br><br>
+A quick preview on Team license is available in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions of team drive and file lock is provided for your team work and remote jobs.<br><br><br>
 
 
 
 
 ### **Add Team Members**
 
-There are two ways to add TEAM members - by Members or by Domains. 
+There are two ways to add TEAM members - by Members or by Domains.<br> 
 
 **Add by Members**
 
@@ -39,7 +39,7 @@ There are two ways to add TEAM members - by Members or by Domains.
 
 4. Team account can be changed anytime as needed. (limited 1 time per day)
 
-   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer
+   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer<br><br>
 
 
 **Add by Domains**
@@ -66,7 +66,7 @@ There are two ways to add TEAM members - by Members or by Domains.
 
 4. Team account can be changed anytime as needed. (limited 1 time per day)
 
-   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer, Domains
+   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer, Domains<br><br><br>
 
 
 
@@ -79,7 +79,7 @@ Team account has distinct role of Team Admin and Team  Maintainer.
 
 * Team Maintainer can control team drive such as create team drives, change settings and republish/unpublish.
 
-By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).  
+By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).<br><br><br>  
 
 
 
@@ -89,12 +89,12 @@ By default, Team Admin has Team Maintainer role and it can be assigned to anothe
 
 Team manual is auto-emailed to Team Admin email right after the purchase completion.
 
-It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.
+It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br><br>
 
 
 
 
 ### **General Information on License Terms**
 
-General information can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).
+General information can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).<br><br><br>
 
