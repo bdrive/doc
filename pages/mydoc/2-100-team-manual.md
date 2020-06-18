@@ -10,7 +10,7 @@ hide_sidebar: false
 
 ### **Team Preview**
 
-A quick preview on Team license is recommended in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions such as team drive and file lock is waiting for your team work and remote work.
+A quick preview on Team license is recommended in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions such as team drive and file lock is waiting for your team work and remote jobs.
 
 
 
@@ -24,15 +24,15 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 {% include inline_image.html file="by_members.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to MERMERS tab in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to MERMERS tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Add Team members 
 
    * Add Bdrive email ID of each Team member at the bottom of the page
 
-      * Note every member needs to [**Create Account IDs**](2-11-license#create-account-id) in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+      * Note every member needs to [**Create Account IDs**](2-11-license#create-account-id) in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
 
-      * Members who did not create their Bdrive account IDs yet at the moment when adding as Team member, a 'Verification Email with Temporary Password' will be emailed to the member which enables to log in temporarily.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset)
+      * Members who did not create their Bdrive account IDs yet at the moment when adding as Team member, a 'Verification Email with Temporary Password' will be emailed to the member which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
 
    *	Optionally, we assist to register multiple Team members using CSV file if you inform us your Team admin account ID and CSV file to our [**Support Site**](2-11-license#support-site) _(https://support.bdrive.com)_
 
@@ -47,7 +47,7 @@ There are two ways to add TEAM members - by MEMBERS or by DOMAINS.
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to DOMAINS tab in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to DOMAINS tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Register Domains
 
@@ -80,7 +80,7 @@ Team account has distinct role of Team Admin and Maintainer.
 
 * Team Maintainer can control team drive such as create team drives, change settings and republish/unpublish.
 
-By default, Team Admin has Team Maintainer role and it can be assigned to another member in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).  
+By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).  
 
 
 
@@ -90,7 +90,7 @@ By default, Team Admin has Team Maintainer role and it can be assigned to anothe
 
 Team manual will be auto-emailed to Team Admin ID right after the purchase.
 
-In case you did not receive the manual, it can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
+In case you did not receive the manual, it can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
 
 
 
