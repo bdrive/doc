@@ -7,67 +7,95 @@ toc: false
 hide_sidebar: false
 ---
 
+
+### **Team Preview**
+
+A quick preview on Team license is recommended in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions such as team drive and file lock is waiting for your team work and remote work.
+
+
+
+
 ### **Add Team Members**
 
 There are two ways to add TEAM members - by MEMBERS or by DOMAINS. 
+
 
 **Add by MEMBERS**
 
 {% include inline_image.html file="by_members.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to MERMERS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to MERMERS tab in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 2. Add Team members 
 
-   * Team Admin may add Bdrive email IDs of each of Team members.
+   * Add Bdrive email ID of each Team member at the bottom of the page
 
-   *	Each member needs to [**Create Account IDs**](2-11-license#create-account-id) in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) and verify the emailbefore logging in to the software.
+      * Note every member needs to [**Create Account IDs**](2-11-license#create-account-id) in [**https://accounts.bdrive.com/accounts/signup**](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
 
-   *	For those who did not create their Bdrive account IDs yet at the moment of adding them as a member, a **Verification Email with Temporary Password** will be emailed to log in with temporary password.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset).
+      * Members who did not create their Bdrive account IDs yet at the moment when adding as Team member, a 'Verification Email with Temporary Password' will be emailed to the member which enables to log in temporarily.  It is highly suggested to change the password in [**https://accounts.bdrive.com/accounts/password/reset**](https://accounts.bdrive.com/accounts/password/reset)
 
-   *	Optionally, we assist to register multiple Team members using CSV file so write to our [**Support Site**](2-11-license#support-site) _(https://support.bdrive.com)_ with Team admin account ID and CSV file attached.
+   *	Optionally, we assist to register multiple Team members using CSV file if you inform us your Team admin account ID and CSV file to our [**Support Site**](2-11-license#support-site) _(https://support.bdrive.com)_
 
-3. Assign license quantity for each added Team member.  By default, it is set to 1 per user and it can be changed anytime within available quantity. 
+3. Assign license quantity for each added member.  By default, it is set to 1 per user and it can be changed anytime within available quantity. 
 
-4. Team account can be changed in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team) anytime.
+4. Team account can be changed anytime as needed. (limited 1 time per day)
 
-   *	Add/Remove/Deactivate/Reactivate Members, assign license quantity, change Admin and Maintainer
+   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer
 
 
 **Add by DOMAINS**
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to DOMAINS tab of [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
+1. Log in with Team Admin ID and go to DOMAINS tab in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
-2. Add Team Domains
+2. Register Domains
 
-   * Team Admin may register up to 2 domains and domain verification is required before using.  Read ‘How to verify domain ownership’ before registering your domains.
+   * Register your domain (max 2) after carefully reading ‘How to verify domain ownership’
    
-   * In the moment of verification, note existing email account IDs under these domains will be automatically added to MEMBERS tab by default.
+      * Team Admin is required to check the 'Domain Verification Email' to complete the register
    
-   * Unlimited plan can only use add by domains and add by members is not available.
+      * At the moment of domain verification, note _existing_ email account IDs under the domain will be automatically added to MEMBERS tab by default.  It is suggested to delete unwanted users
+   
+      * Unlimited Plan can add members by domains only (by members not available).
 
-3. Add Team members under the registered domains (follow the steps described in Add by MEMBERS)
+3. Add Team members under the registered domains 
 
-   *	Unlimited plan is not required to add members.
+   * Add Bdrive email ID of each Team member at the bottom of the page (follow the steps described in Add by MEMBERS above)
+   
+      * Unlimited plan is not required to add members
 
-4. Team account information can be changed in MEMBERS / DOMAINS tab anytime as needed.
+4. Team account can be changed anytime as needed. (limited 1 time per day)
+
+   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer, Domains
 
 
 
-/br/br
+
+### **Team Admin and Maintainer**
+
+Team account has distinct role of Team Admin and Maintainer.
+
+* Team Admin can manage team account such as add members, add domains, purchase licenses, etc.
+
+* Team Maintainer can control team drive such as create team drives, change settings and republish/unpublish.
+
+By default, Team Admin has Team Maintainer role and it can be assigned to another member in [**https://accounts.bdrive.com/plans_products/NetDrive3/team**](https://accounts.bdrive.com/plans_products/NetDrive3/team).  
+
 
 
 
 
 ### **Team Manual**
 
-A simple manual to [**Add Team Member**](2-11-license#add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
+Team manual will be auto-emailed to Team Admin ID right after the purchase.
 
-_Team manual will be emailed to Team admin immediately after the purchase._
+In case you did not receive the manual, it can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
+
+
 
 
 ### **General Information on Licenses and Terms of Use**
 
-General information about software license can be found in [License](2-11-license) page and [Bdrive Website](https://www.bdrive.com) as well.
+General information about software license can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).
+
