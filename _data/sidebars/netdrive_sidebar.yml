@@ -47,6 +47,10 @@ entries:
                     url: /19-68-settings.html
                     output: web
 
+          - title: Team Manual
+            url: /2-100-team-manual.html
+            output: web
+
           - title: Limitations & Known Issues
             url: /2-12-limitations.html
             output: web
@@ -100,6 +104,10 @@ entries:
                   - title: Settings
                     url: /125-162-settings.html
                     output: web
+
+          - title: Team Manual
+            url: /2-101-team-manual.html
+            output: web
 
       - title: Support Forum
         output: web, pdf
