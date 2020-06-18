@@ -19,6 +19,7 @@ A quick preview on Team license is recommended in [https://www.netdrive.net/team
 
 There are two ways to add TEAM members - by Members or by Domains. 
 
+<p>
 
 **Add by Members**
 
@@ -41,7 +42,7 @@ There are two ways to add TEAM members - by Members or by Domains.
 4. Team account can be changed anytime as needed. (limited 1 time per day)
 
    *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer
-
+</p>
 
 **Add by Domains**
 
