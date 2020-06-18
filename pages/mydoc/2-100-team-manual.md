@@ -17,15 +17,15 @@ A quick preview on Team license is available in [https://www.netdrive.net/team/]
 
 ### **Add Team Members**
 
-There are two ways to add TEAM members - by Members or by Domains.<br> 
+There are two ways to add TEAM members - by Members or by Domains.<br><br> 
 
-**Add by Members**
+**_Add by Members_**
 
 {% include inline_image.html file="by_members.png" max-width="200" %}
 
 1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
-2. Add Team members 
+2. Add your Team members 
 
    * Add Bdrive email ID of each Team member at the bottom of the page
 
@@ -42,13 +42,13 @@ There are two ways to add TEAM members - by Members or by Domains.<br>
    *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer<br><br>
 
 
-**Add by Domains**
+**_Add by Domains_**
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}
 
 1. Log in with Team Admin ID and go to Domains tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
-2. Register Domains
+2. Register your Domains
 
    * Register your domain (max 2) after carefully reading ‘How to verify domain ownership’
    
@@ -58,7 +58,7 @@ There are two ways to add TEAM members - by Members or by Domains.<br>
    
       * Unlimited Plan can add members by domains only (by members not available).
 
-3. Add Team members under the registered domains 
+3. Add your Team members under registered domains 
 
    * Add Bdrive email ID of each Team member at the bottom of the page (follow the steps described in Add by Members above)
    
@@ -75,9 +75,9 @@ There are two ways to add TEAM members - by Members or by Domains.<br>
 
 Team account has distinct role of Team Admin and Team  Maintainer.
 
-* Team Admin can manage team account such as add members, add domains, purchase licenses, etc.
+* _Team Admin_ can manage team account such as add members, add domains, purchase licenses, etc.
 
-* Team Maintainer can control team drive such as create team drives, change settings and republish/unpublish.
+* _Team Maintainer_ can control team drive such as create team drives, change settings and republish/unpublish.
 
 By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).<br><br><br>  
 
@@ -96,5 +96,5 @@ It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member
 
 ### **General Information on License Terms**
 
-General information can be found in [NetDrive License](2-11-license), [CloudSync License](3-14-license) and [Bdrive Website](https://www.bdrive.com).<br><br><br>
+General information can be found in [NetDrive License](2-11-license) and [Bdrive Website](https://www.bdrive.com).<br><br><br>
 
