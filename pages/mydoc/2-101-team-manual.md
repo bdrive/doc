@@ -22,6 +22,7 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 **_Add by Members_**
 
 {% include inline_image.html file="by_members.png" max-width="200" %}
+   (Sample screenshot of NetDrive product)
 
 1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
@@ -29,7 +30,7 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 
    * Add Bdrive email ID of each Team member at the bottom of the page
 
-      * Note every member needs to [**Create Account IDs**](2-11-license#create-account-id) in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+      * Note every member needs to [**Create Account IDs**](3-14-license#create-account-id) in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
 
       * Members who did not create their Bdrive account IDs yet at the moment when adding as Team member, a 'Verification Email with Temporary Password' will be emailed to the member which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
 
@@ -45,7 +46,8 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 **_Add by Domains_**
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}
-
+   (Sample screenshot of NetDrive product)
+   
 1. Log in with Team Admin ID and go to Domains tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
 2. Register your Domains
