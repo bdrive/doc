@@ -21,7 +21,7 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 
 **_Add by Members_**
 
-{% include inline_image.html file="by_members.png" max-width="200" "Title" %}
+{% include inline_image.html file="by_members.png" max-width="200" %}
 
 1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
