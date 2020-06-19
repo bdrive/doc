@@ -22,7 +22,6 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 **_Add by Members_**
 
 {% include inline_image.html file="by_members.png" max-width="200" %}<br>
-(Sample screenshot of NetDrive product)
 
 1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
@@ -46,7 +45,6 @@ There are two ways to add TEAM members - by Members or by Domains.<br><br>
 **_Add by Domains_**
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}<br>
-(Sample screenshot of NetDrive product)
    
 1. Log in with Team Admin ID and go to Domains tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
