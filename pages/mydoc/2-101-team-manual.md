@@ -17,7 +17,7 @@ A quick preview on Team license is available in [https://www.netdrive.net/team/]
 
 ### **Team Trial**
 
-CloudSync free trial version can be downloaded in [https://cloudsync.bdrive.com/#plans](https://cloudsync.bdrive.com/#plans).  Also, it can be started in [https://accounts.bdrive.com/plans_products/CloudSync/team/](https://accounts.bdrive.com/plans_products/CloudSync/team/) by clicking Team trial.  Team trial can be assigned up to 3 devices and trial period lasts for 14 days.  Please contact our [**Support site**](3-14-license#wiki-toc-support-site) for any inquiries.
+CloudSync free trial version can be downloaded in [https://cloudsync.bdrive.com/#plans](https://cloudsync.bdrive.com/#plans).  Also, it can be started by clicking 'Start trial or Purchase' in [https://accounts.bdrive.com/plans_products/CloudSync/team/](https://accounts.bdrive.com/plans_products/CloudSync/team/).  Click 'Start Team trial of TEAM Plan' and note it be assigned up to 3 devices for 14 days.  Please contact our [**Support site**](3-14-license#wiki-toc-support-site) for any inquiries.
 
 {% include inline_image.html file="trial_cloudsync.png" max-width="200" %}
 
