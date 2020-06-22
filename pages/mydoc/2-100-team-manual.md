@@ -17,7 +17,7 @@ A quick preview on Team license is available in [https://www.netdrive.net/team/]
 
 ### **Team Trial**
 
-NetDrive free trial version can be downloaded in https://www.netdrive.net/store/.  Also, it can be started in https://accounts.bdrive.com/plans_products/NetDrive3/team/ by clicking Team trial.  Team trial can be assigned up to 3 devices and trial period lasts for 7 days.  Please contact our [**Support site**](2-11-license#wiki-toc-support-site) for any inquiries.
+NetDrive free trial version can be downloaded in https://www.netdrive.net/store/.  Also, it can be started in [https://accounts.bdrive.com/plans_products/NetDrive3/team/](https://accounts.bdrive.com/plans_products/NetDrive3/team/) by clicking Team trial.  Team trial can be assigned up to 3 devices and trial period lasts for 7 days.  Please contact our [**Support site**](2-11-license#wiki-toc-support-site) for any inquiries.
 
 {% include inline_image.html file="trial_netdrive.png" max-width="200" %}
 
