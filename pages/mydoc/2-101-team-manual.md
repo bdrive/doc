@@ -8,7 +8,7 @@ hide_sidebar: false
 ---
 
 
-### **Team Preview**
+### **Team Plan Preview**
 
 A quick preview on Team license is available in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions of team drive and file lock is provided for your team work and remote jobs.<br><br><br>
 
