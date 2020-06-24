@@ -1,5 +1,5 @@
 ---
-title: Title
+title: EULA
 keywords:
 sidebar: netdrive_sidebar
 permalink: 3-16-eula.html
