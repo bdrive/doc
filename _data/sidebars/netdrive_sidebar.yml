@@ -11,6 +11,7 @@ entries:
           - title: NetDrive
             url: /1-2-netdrive.html
             output: web
+
           - title: License
             url: /2-11-license.html
             output: web
@@ -47,9 +48,16 @@ entries:
                     url: /19-68-settings.html
                     output: web
 
-          - title: Team Manual
-            url: /2-100-team-manual.html
-            output: web
+              - title: Team
+                output: web
+                subfolderitems:
+                  - title: Team Manual
+                    url: /2-100-team-manual.html
+                    output: web
+
+                  - title: Team Features
+                    url: /2-200-team-features.html
+                    output: web
 
           - title: Limitations & Known Issues
             url: /2-12-limitations.html
