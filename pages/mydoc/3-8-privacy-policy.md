@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Privacy Policy
 keywords:
 sidebar: netdrive_sidebar
 permalink: 3-8-privacy-policy.html
