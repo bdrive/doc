@@ -79,7 +79,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    
   
   
-## **(Optional)**  Team Members can be added by Domains
+**(Optional)**  Team Members can be added by Domains
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
 
