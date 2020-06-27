@@ -48,7 +48,6 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 {% include inline_image.html file="plans_products_team.png" max-width="200" %}
 
 3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
-
    * By default, quantity set to 1 per member and it can be changed anytime within available quantity
    * Add Member fails if the user is already a team member or has any other plan 
    * Optionally, we assist to register multiple Team members if you send us CSV file
@@ -77,13 +76,11 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 **(Optional)**  Team Members can be added by Domains
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
-
 {% include inline_image.html file="by_domains.png" max-width="200" %}
 
 2. Team Admin needs to check ‘Domain Verification Email’ to complete the registration
 
 3. Go to ‘Members’ tab (and follow the steps to add members).  Add Team Member’s account ID and assign license quantity 
-
    * Add Team member’s account ID, either email under registered domains or any email address
       * At the moment of domain verification, existing account IDs under registered domains will be automatically added to Members tab.  It is suggested to remove unwanted users from the list
       * Unlimited Plan allows Team members under registered domains only
