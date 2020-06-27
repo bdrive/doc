@@ -7,7 +7,7 @@ toc: false
 hide_sidebar: false
 ---
 
-### **Team Trial**
+### **Team License**
 
 **1 license can be used to access to 1 device concurrently**.  There is an option to change current device to a new device in https://accounts.bdrive.com whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store https://www.netdrive.net.<br>
 
@@ -27,11 +27,11 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 ### **Useful Links**
 
-Support: https://support.bdrive.com
-User Docs: https://doc.bdrive.com
-Accounts: https://accounts.bdrive.com
-Team Account: https://accounts.bdrive.com/plans_products/NetDrive3/team
-Add License: https://accounts.bdrive.com/plans_products/NetDrive3
+Support: https://support.bdrive.com<br>
+User Docs: https://doc.bdrive.com<br>
+Accounts: https://accounts.bdrive.com<br>
+Team Account: https://accounts.bdrive.com/plans_products/NetDrive3/team<br>
+Add License: https://accounts.bdrive.com/plans_products/NetDrive3<br>
 Sign Up: https://accounts.bdrive.com/accounts/signup
 Password Reset: https://accounts.bdrive.com/accounts/password/reset
 Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
@@ -41,15 +41,13 @@ Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
 
 ### **Add Team Members**
 
-1. Log in to https://accounts.bdrive.com with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
 
 {% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}<br> 
 
 2. Click ‘Manage’ button in Team category
 
 {% include inline_image.html file="plans_products_team.png" max-width="200" %}<br> 
-
-(Direct link: https://accounts.bdrive.com/plans_products/NetDrive3/team)<br>
 
 3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
 
@@ -61,9 +59,9 @@ Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
 
 4. Team Members need to check ‘Email Verification’ before using the software
 
-   * **Each member needs to create account ID** in https://accounts.bdrive.com/accounts/signup and verify the email before logging in to the software
-   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in https://accounts.bdrive.com/accounts/password/reset 
-   * **If verification email is not received**, once again try to login to https://accounts.bdrive.com using the email account ID which then will be sending another verification email<br>
+   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email<br>
 
 5. Note: Distinct role of Team Admin / Team Maintainer
 
@@ -77,12 +75,12 @@ Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
       *	Create Team Drives
       * Change settings
       * Republish/Unpublish
-   * By default, Team Admin has Team Maintainer role and it can be assigned to another member in https://accounts.bdrive.com/plans_products/NetDrive3/team <br><br>
+   * By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br><br>
    
    
 **(Optional)**  Team Members can be added by Domains<br>
 
-1.	Log in to https://accounts.bdrive.com with Team Admin account ID.  Go to ‘Domains’ tab in https://accounts.bdrive.com/plans_products/NetDrive3/team and then register the domain (max 2) 
+1.	Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}<br> 
 
@@ -97,24 +95,22 @@ Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
 
 4. Team Members need to check ‘Email Verification’ before using the software
 
-   * **Each member needs to create account ID** in https://accounts.bdrive.com/accounts/signup and verify the email before logging in to the software
-   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in https://accounts.bdrive.com/accounts/password/reset 
-   * **If verification email is not received**, once again try to login to https://accounts.bdrive.com using the email account ID which then will be sending another verification email.  Check spam box, too<br><br><br>
+   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br><br>
 
 
 
 
 ### **Add Licenses**
 
-1. Log in to https://accounts.bdrive.com with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
 
 {% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}<br> 
 
 2. Click ‘Add License’ button in License category
 
 {% include inline_image.html file="plans_products_license.png" max-width="200" %}<br> 
-
-(Direct link: https://accounts.bdrive.com/plans_products/NetDrive3/team)<br>
 
 3. Change ‘Total’ quantity followed by ‘Proceed to Checkout’ button (limited once a day)
 
@@ -131,7 +127,7 @@ Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
    
       * A new order will be issued for added quantity/price<br>
 
-5. Invoice Link : https://accounts.bdrive.com/accounts/invoices<br><br><br>
+5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
 
 
 
