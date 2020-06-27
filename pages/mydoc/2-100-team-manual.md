@@ -42,9 +42,11 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 ### **Add Team Members**
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
-{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %} 
+{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}
+
 2. Click ‘Manage’ button in Team category
 {% include inline_image.html file="plans_products_team.png" max-width="200" %}
+
 3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
 
    * By default, quantity set to 1 per member and it can be changed anytime within available quantity
