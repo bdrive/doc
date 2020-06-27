@@ -18,7 +18,7 @@ hide_sidebar: false
 
 ### **Team Trial**
 
-A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s available in [ https://www.netdrive.net/store/]( https://www.netdrive.net/store/), [https://accounts.bdrive.com/plans_products/NetDrive3/team/](https://accounts.bdrive.com/plans_products/NetDrive3/team/).
+A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s available in [ https://www.netdrive.net/store]( https://www.netdrive.net/store), [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
 {% include inline_image.html file="trial_netdrive.png" max-width="200" %}<br><br><br>
 
@@ -43,11 +43,11 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
 
-{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}<br> 
+{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %} 
 
 2. Click ‘Manage’ button in Team category
 
-{% include inline_image.html file="plans_products_team.png" max-width="200" %}<br> 
+{% include inline_image.html file="plans_products_team.png" max-width="200" %}
 
 3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
 
@@ -55,13 +55,13 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Add Member fails if the user is already a team member or has any other plan 
    * Optionally, we assist to register multiple Team members if you send us CSV file
 
-{% include inline_image.html file="by_members_netdrive.png" max-width="200" %}<br> 
+{% include inline_image.html file="by_members_netdrive.png" max-width="200" %}
 
 4. Team Members need to check ‘Email Verification’ before using the software
 
    * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
-   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email<br>
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email
 
 5. Note: Distinct role of Team Admin / Team Maintainer
 
@@ -82,7 +82,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
 
-{% include inline_image.html file="by_domains.png" max-width="200" %}<br> 
+{% include inline_image.html file="by_domains.png" max-width="200" %}
 
 2. Team Admin needs to check ‘Domain Verification Email’ to complete the registration
 
@@ -91,7 +91,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Add Team member’s account ID, either email under registered domains or any email address
       * At the moment of domain verification, existing account IDs under registered domains will be automatically added to Members tab.  It is suggested to remove unwanted users from the list
       * Unlimited Plan allows Team members under registered domains only
-   * Assign license quantity for each added member (set to 1 by default)<br>
+   * Assign license quantity for each added member (set to 1 by default)
 
 4. Team Members need to check ‘Email Verification’ before using the software
 
@@ -106,15 +106,15 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
 
-{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}<br> 
+{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}
 
 2. Click ‘Add License’ button in License category
 
-{% include inline_image.html file="plans_products_license.png" max-width="200" %}<br> 
+{% include inline_image.html file="plans_products_license.png" max-width="200" %}
 
 3. Change ‘Total’ quantity followed by ‘Proceed to Checkout’ button (limited once a day)
 
-{% include inline_image.html file="add_license.png" max-width="200" %}<br> 
+{% include inline_image.html file="add_license.png" max-width="200" %}
 
 4. New purchase order issued
 
@@ -125,7 +125,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
      
    * Lifetime License
    
-      * A new order will be issued for added quantity/price<br>
+      * A new order will be issued for added quantity/price
 
 5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
 
