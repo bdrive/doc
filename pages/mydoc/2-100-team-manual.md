@@ -27,14 +27,14 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 ### **Useful Links**
 
-Support: https://support.bdrive.com<br>
-User Docs: https://doc.bdrive.com<br>
-Accounts: https://accounts.bdrive.com<br>
-Team Account: https://accounts.bdrive.com/plans_products/NetDrive3/team<br>
-Add License: https://accounts.bdrive.com/plans_products/NetDrive3<br>
-Sign Up: https://accounts.bdrive.com/accounts/signup
-Password Reset: https://accounts.bdrive.com/accounts/password/reset
-Invoice: https://accounts.bdrive.com/accounts/invoices<br><br><br>
+Support: [https://support.bdrive.com](https://support.bdrive.com)<br>
+User Docs: [https://doc.bdrive.com](https://doc.bdrive.com)<br>
+Accounts: [https://accounts.bdrive.com](https://accounts.bdrive.com)<br>
+Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br>
+Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)<br>
+Sign Up: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)<br>
+Password Reset: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)<br>
+Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
 
 
 
