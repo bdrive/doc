@@ -67,7 +67,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
       *	Assign License quantity
       * Change Team Admin/Maintainer
       *	Team Domains
-   * Team Maintainer controls team drive (create team drives, change settings, republish/unpublish)
+   * Team Maintainer controls team drive
       *	Create Team Drives
       * Change Settings
       * Republish/Unpublish
