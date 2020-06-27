@@ -9,9 +9,9 @@ hide_sidebar: false
 
 ### **Team License**
 
-**1 license can be used to access to 1 device concurrently**.  There is an option to change current device to a new device in https://accounts.bdrive.com whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store https://www.netdrive.net.<br>
+**1 license can be used to access to 1 device concurrently**.  There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://www.netdrive.net](https://www.netdrive.net).<br>
 
-**Team Admin can purchase Team licenses**.  Team Admin needs to create email account ID in https://accounts.bdrive.com/accounts/signup and verify the email first.  After the purchase, Admin can add Team members in https://accounts.bdrive.com.<br><br><br>
+**Team Admin can purchase Team licenses**.  Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email first.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br><br>
 
 
 
@@ -27,14 +27,14 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 ### **Useful Links**
 
-Support: [https://support.bdrive.com](https://support.bdrive.com)<br>
-User Docs: [https://doc.bdrive.com](https://doc.bdrive.com)<br>
-Accounts: [https://accounts.bdrive.com](https://accounts.bdrive.com)<br>
-Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br>
-Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)<br>
-Sign Up: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)<br>
-Password Reset: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)<br>
-Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
+   * Support: [https://support.bdrive.com](https://support.bdrive.com)
+   * User Docs: [https://doc.bdrive.com](https://doc.bdrive.com)
+   * Accounts: [https://accounts.bdrive.com](https://accounts.bdrive.com)
+   * Team Account: [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)
+   * Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
+   * Sign Up: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)
+   * Password Reset: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
+   * Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
 
 
 
@@ -78,9 +78,9 @@ Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive
    * By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br><br>
    
    
-**(Optional)**  Team Members can be added by Domains<br>
+##**(Optional)**  Team Members can be added by Domains<br>
 
-1.	Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID.  Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team) and then register the domain (max 2) 
 
 {% include inline_image.html file="by_domains.png" max-width="200" %}<br> 
 
