@@ -45,7 +45,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 {% include inline_image.html file="plans_products_netdrive.png" max-width="200" %} 
 
-2. Click ‘Manage’ button in Team category
+1. Click ‘Manage’ button in Team category
 
 {% include inline_image.html file="plans_products_team.png" max-width="200" %}
 
@@ -60,7 +60,9 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 4. Team Members need to check ‘Email Verification’ before using the software
 
    * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
+   
    * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email
 
 5. Note: Distinct role of Team Admin / Team Maintainer
@@ -68,12 +70,12 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Team Admin manages team account anytime as needed
       * Purchase Team licenses 
       * Add/Remove/Deactivate/Reactivate Team Members
-      *	Assign license quantity
+      *	Assign License quantity
       * Change Team Admin/Maintainer
       *	Team Domains
    * Team Maintainer controls team drive (create team drives, change settings, republish/unpublish)
       *	Create Team Drives
-      * Change settings
+      * Change Settings
       * Republish/Unpublish
    * By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team)<br><br>
    
