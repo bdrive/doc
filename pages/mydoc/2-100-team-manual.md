@@ -50,7 +50,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 {% include inline_image.html file="plans_products_team.png" max-width="200" %}
 
 3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
-   * By default, quantity set to 1 per member and it can be changed anytime within available quantity
+   * By default, quantity is set to 1 per member and it can be changed anytime within available quantity
    * Add Member fails if the user is already a team member or has any other plan 
    * Optionally, we assist to register multiple Team members if you send us CSV file
 {% include inline_image.html file="by_members_netdrive.png" max-width="200" %}
