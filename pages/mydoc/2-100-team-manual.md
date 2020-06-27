@@ -11,7 +11,7 @@ hide_sidebar: false
 
 **1 license can be used to access to 1 device concurrently**.  There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://www.netdrive.net](https://www.netdrive.net).<br>
 
-**Team Admin can purchase Team licenses**.  Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email first.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br><br>
+**Team Admin can purchase Team licenses**.  Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email first.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br>
 
 
 
@@ -20,7 +20,7 @@ hide_sidebar: false
 
 A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s available in [ https://www.netdrive.net/store]( https://www.netdrive.net/store), [https://accounts.bdrive.com/plans_products/NetDrive3/team](https://accounts.bdrive.com/plans_products/NetDrive3/team).
 
-{% include inline_image.html file="trial_netdrive.png" max-width="200" %}<br><br><br>
+{% include inline_image.html file="trial_netdrive.png" max-width="200" %}<br><br>
 
 
 
@@ -34,7 +34,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Add License: [https://accounts.bdrive.com/plans_products/NetDrive3](https://accounts.bdrive.com/plans_products/NetDrive3)
    * Sign Up: [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup)
    * Password Reset: [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
-   * Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
+   * Invoice: [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
 
 
@@ -98,7 +98,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
    * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
-   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br><br>
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br>
 
 
 
@@ -128,7 +128,7 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    
       * A new order will be issued for added quantity/price
 
-5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br><br>
+5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
 
 
@@ -137,12 +137,12 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 
 Team manual is auto-emailed to Team Admin email adress right after the purchase completion.
 
-It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br><br>
+It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br>
 
 
 
 
 ### **General Information on License Terms**
 
-General information can be found in [NetDrive License](2-11-license) and [Bdrive Website](https://www.bdrive.com).<br><br><br>
+General information can be found in [NetDrive License](2-11-license) and [Bdrive Website](https://www.bdrive.com).<br><br>
 
