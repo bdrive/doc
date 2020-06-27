@@ -8,102 +8,110 @@ hide_sidebar: false
 ---
 
 
-### **Team Plan Preview**
+### **Team License**
 
-A quick preview on Team license is available in [https://www.netdrive.net/team/](https://www.netdrive.net/team/).  Amazing functions of team drive and file lock is provided for your team work and remote jobs.<br><br><br>
+**1 license can be used to access to 1 device concurrently**.  
+There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://cloudsync.bdrive.com](https://cloudsync.bdrive.com).<br>
+
+**Team Admin can purchase Team licenses**.  
+Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br>
 
 
 
 
 ### **Team Trial**
 
-CloudSync free trial version can be downloaded in [https://cloudsync.bdrive.com/#plans](https://cloudsync.bdrive.com/#plans).  Also, it can be started by clicking 'Start trial or Purchase' in [https://accounts.bdrive.com/plans_products/CloudSync/team/](https://accounts.bdrive.com/plans_products/CloudSync/team/).  Click 'Start Team trial of TEAM Plan' and note it be assigned up to 3 devices for 14 days.  Please contact our [**Support site**](3-14-license#wiki-toc-support-site) _(https://support.bdrive.com)_ for any inquiries.
+A free Team Trial is available for 14 days to assign up to 3 licenses.  It’s available in [https://cloudsync.bdrive.com/#plans](https://cloudsync.bdrive.com/#plans), [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
 
-{% include inline_image.html file="trial_cloudsync.png" max-width="200" %}<br><br><br>
+{% include inline_image.html file="trial_cloudsync.png" max-width="200" %}<br><br>
 
 
 
 
 ### **Add Team Members**
 
-There are two ways to add TEAM members - by Members or by Domains.<br><br> 
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of CloudSync category
+{% include inline_image.html file="plans_products_cloudsync.png" max-width="200" %}
 
-**_Add by Members_**
+2. Click ‘Manage’ button in Team category
+{% include inline_image.html file="plans_products_team.png" max-width="200" %}
 
-{% include inline_image.html file="by_members.png" max-width="200" %}<br>
+3. Add Team Member’s account ID at the bottom of the page and then assign license quantity for each added member
+   * By default, quantity is set to 1 per member and it can be changed anytime within available quantity
+   * Add Member fails if the user is already a team member or has any other plan 
+   * Optionally, we assist to register multiple Team members if you send us CSV file
+{% include inline_image.html file="by_members_cloudsync.png" max-width="200" %}
 
-1. Log in with Team Admin ID and go to Members tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
+4. Team Members need to check ‘Email Verification’ before using the software
+   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email
 
-2. Add your Team members 
-
-   * Add Bdrive email ID of each Team member at the bottom of the page
-
-      * Note every member needs to [**Create Account IDs**](3-14-license#create-account-id) in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
-
-      * Members who did not create their Bdrive account IDs yet at the moment when adding as Team member, a 'Verification Email with Temporary Password' will be emailed to the member which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset)
-
-   *	Optionally, we assist to register multiple Team members using CSV file if you inform us your Team admin account ID and CSV file to our [**Support Site**](2-11-license#support-site) _(https://support.bdrive.com)_
-
-3. Assign license quantity for each added member.  By default, it is set to 1 per user and it can be changed anytime within available quantity. 
-
-4. Team account can be changed anytime as needed. (limited 1 time per day)
-
-   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer<br><br>
-
-
-**_Add by Domains_**
-
-{% include inline_image.html file="by_domains.png" max-width="200" %}<br>
+5. Note: Role of Team Admin 
+   * Team Admin manages team account anytime as needed
+      * Purchase Team licenses 
+      * Add/Remove/Deactivate/Reactivate Team Members
+      *	Assign License quantity
+      * Change Team Admin/Maintainer
+      *	Team Domains<br><br>
    
-1. Log in with Team Admin ID and go to Domains tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).
+  
+  
+**(Optional)**  Team Members can be added by Domains
 
-2. Register your Domains
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID. Go to ‘Domains’ tab in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team) and then register the domain (max 2)
+{% include inline_image.html file="by_domains.png" max-width="200" %}
 
-   * Register your domain (max 2) after carefully reading ‘How to verify domain ownership’
-   
-      * Team Admin is required to check the 'Domain Verification Email' to complete the register
-   
-      * At the moment of domain verification, note _existing_ email account IDs under the domain will be automatically added to MEMBERS tab by default.  It is suggested to delete unwanted users
-   
-      * Unlimited Plan can add members by domains only (by members not available).
+2. Team Admin needs to check ‘Domain Verification Email’ to complete the registration
 
-3. Add your Team members under registered domains 
+3. Go to ‘Members’ tab (and follow the steps to add members).  Add Team Member’s account ID and assign license quantity 
+   * Add Team member’s account ID, either email under registered domains or any email address
+      * At the moment of domain verification, existing account IDs under registered domains will be automatically added to Members tab.  It is suggested to remove unwanted users from the list
+      * Unlimited Plan allows Team members under registered domains only
+   * Assign license quantity for each added member (set to 1 by default)
 
-   * Add Bdrive email ID of each Team member at the bottom of the page (follow the steps described in Add by Members above)
-   
-      * Unlimited plan is not required to add members
-
-4. Team account can be changed anytime as needed. (limited 1 time per day)
-
-   *	Add/Remove/Deactivate/Reactivate Members, Assign license quantity, Change Admin/Maintainer, Domains<br><br><br>
+4. Team Members need to check ‘Email Verification’ before using the software
+   * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
+   * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
+   * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br>
 
 
 
 
-### **Team Admin / Team Maintainer**
+### **Add Licenses**
 
-Team account has distinct role of Team Admin and Team  Maintainer.
+1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
+{% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}
 
-* _Team Admin_ can manage team account such as add members, add domains, purchase licenses, etc.
+2. Click ‘Add License’ button in License category
+{% include inline_image.html file="plans_products_license.png" max-width="200" %}
 
-* _Team Maintainer_ can control team drive such as create team drives, change settings and republish/unpublish.
+3. Change ‘Total’ quantity followed by ‘Proceed to Checkout’ button (limited one time per day)
+{% include inline_image.html file="add_license.png" max-width="200" %}
 
-By default, Team Admin has Team Maintainer role and it can be assigned to another member in [https://accounts.bdrive.com/plans_products/CloudSync/team](https://accounts.bdrive.com/plans_products/CloudSync/team).<br><br><br>  
+4. New purchase order issued
+   * Yearly Subscription
+     * Your most recent subscription will be cancelled and partially refunded (PRORATE)
+     * A new yearly subscription will be issued for changed ‘Total’ quantity/price
+   * Lifetime License
+      * A new order will be issued for added quantity/price
 
+5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
 
 
 
 ### **Team Manual**
 
-Team manual is auto-emailed to Team Admin email right after the purchase completion.
+Team manual is auto-emailed to Team Admin email address right after the purchase completion.
 
-It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br><br>
+It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member-control/40947](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947) as well.<br><br>
 
 
 
 
 ### **General Information on License Terms**
 
-General information can be found in [CloudSync License](3-14-license) and [Bdrive Website](https://cloudsync.bdrive.com/).<br><br><br>
+General information can be found in [CloudSync License](3-14-license) and [Bdrive Website]((https://cloudsync.bdrive.com).<br><br>
+
 
