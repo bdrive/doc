@@ -112,6 +112,6 @@ It can be downloaded in [https://discourse.bdrive.com/t/team-manual-admin-member
 
 ### **General Information on License Terms**
 
-General information can be found in [CloudSync License](3-14-license) and [Bdrive Website]((https://cloudsync.bdrive.com).<br><br>
+General information can be found in [CloudSync License](3-14-license) and [Bdrive Website](https://cloudsync.bdrive.com).<br><br>
 
 
