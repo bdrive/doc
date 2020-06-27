@@ -52,19 +52,14 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * By default, quantity set to 1 per member and it can be changed anytime within available quantity
    * Add Member fails if the user is already a team member or has any other plan 
    * Optionally, we assist to register multiple Team members if you send us CSV file
-
 {% include inline_image.html file="by_members_netdrive.png" max-width="200" %}
 
 4. Team Members need to check ‘Email Verification’ before using the software
-
    * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
-   
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
-   
    * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email
 
 5. Note: Distinct role of Team Admin / Team Maintainer
-
    * Team Admin manages team account anytime as needed
       * Purchase Team licenses 
       * Add/Remove/Deactivate/Reactivate Team Members
@@ -95,7 +90,6 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
    * Assign license quantity for each added member (set to 1 by default)
 
 4. Team Members need to check ‘Email Verification’ before using the software
-
    * **Each member needs to create account ID** in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email before logging in to the software
    * Members who did not create their account IDs yet at the moment when adding as Team member, a ‘Verification Email with Temporary Password’ will be emailed which enables to log in temporarily.  It is highly suggested to change the password in [https://accounts.bdrive.com/accounts/password/reset](https://accounts.bdrive.com/accounts/password/reset) 
    * **If verification email is not received**, once again try to login to [https://accounts.bdrive.com](https://accounts.bdrive.com) using the email account ID which then will be sending another verification email.  Check spam box, too<br><br>
@@ -106,26 +100,19 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 ### **Add Licenses**
 
 1. Log in to [https://accounts.bdrive.com](https://accounts.bdrive.com) with Team Admin account ID and then click ‘Manage’ button in Plans & Products of NetDrive 3 category
-
 {% include inline_image.html file="plans_products_netdrive.png" max-width="200" %}
 
 2. Click ‘Add License’ button in License category
-
 {% include inline_image.html file="plans_products_license.png" max-width="200" %}
 
 3. Change ‘Total’ quantity followed by ‘Proceed to Checkout’ button (limited one time per day)
-
 {% include inline_image.html file="add_license.png" max-width="200" %}
 
 4. New purchase order issued
-
    * Yearly Subscription
-
      * Your most recent subscription will be cancelled and partially refunded (PRORATE)
      * A new yearly subscription will be issued for changed ‘Total’ quantity/price
-     
    * Lifetime License
-   
       * A new order will be issued for added quantity/price
 
 5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
