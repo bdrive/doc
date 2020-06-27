@@ -9,9 +9,11 @@ hide_sidebar: false
 
 ### **Team License**
 
-**1 license can be used to access to 1 device concurrently**.  There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://www.netdrive.net](https://www.netdrive.net).<br>
+**1 license can be used to access to 1 device concurrently**.  
+There is an option to change current device to a new device in [https://accounts.bdrive.com](https://accounts.bdrive.com) whenever needed to change.  If you need to access to several devices at the same time, multiple licenses is required.  Check the store [https://www.netdrive.net](https://www.netdrive.net).<br>
 
-**Team Admin can purchase Team licenses**.  Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email first.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br>
+**Team Admin can purchase Team licenses**.  
+Team Admin needs to create email account ID in [https://accounts.bdrive.com/accounts/signup](https://accounts.bdrive.com/accounts/signup) and verify the email.  After the purchase, Admin can add Team members in  [https://accounts.bdrive.com](https://accounts.bdrive.com).<br><br>
 
 
 
