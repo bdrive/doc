@@ -55,33 +55,12 @@ _Note Yearly Subscription allows both add and remove license option whereas Life
 
 _Note support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
 
-_Note remove license is limited one time per day.
-_
+_Note remove license is limited one time per day._
 
-### **Add Team Member**
-
-After the Team license purchase is completed, Team admin is required to add members before using the software.
-
-There are 2 ways to add Team members and it can be proceeded in [**https://accounts.bdrive.com/plans_products/CloudSync/team**](https://accounts.bdrive.com/plans_products/CloudSync/team).
-
-- The simplest way is to add Team members manually. Within available license quantity, Team admin can add members and assign license quantity per member. It is important that each Team member must [**Create Account IDs**](#create-account-id) prior to add team member.
-
-- For bulk licenses, it is more popular to register the domain. Once the domain is successfully registered, there is no need for Team admin to register each member under corresponding domain manually. Each Team member, however, is required to [**Create Account IDs**](#create-account-id) before login to NetDrive software. Team account can utilize both ‘domain register’ and ‘Add Team members’ in combination. Maximum 2 domains can be registered.
-
-- For unlimited licenses, only domain registering (maximum 2) is available. Note manual add Team members is not able.
-
-License quantity, by default, is set to 1 per user and it can be changed anytime within available quantity. License quantity and Team members can be changed (add/deactivate/remove user, reactivate domain user) in [**Account Site**](#account-site) _(https://accounts.bdrive.com)_ anytime.
-
-We assist to add multiple Team members using CSV file, so write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with CSV file and Team admin account ID.
-
-As a simple guide, [**Team Manual**](#team-manual) is emailed to Team admin account ID upon license purchase completion and it can be downloaded in [**Support Site**](#support-site) _(https://support.bdrive.com)_ as well.
 
 ### **Team Manual**
+Information can be found in Team category including how to add Team members and add Team Licenses.
 
-A simple manual to [**Add Team Member**](#add-team-member) can be downloaded in [**https://discourse.bdrive.com/t/team-manual-admin-member-control/40947**](https://discourse.bdrive.com/t/team-manual-admin-member-control/40947).
-
-_Note our Team manual is emailed to Team admin account ID immediately after the license purchase is completed.
-_
 
 ### **Account Site**
 
@@ -125,8 +104,7 @@ In case of lost or need for a change, the password can be reset with correct acc
 
 Once signed in with any third party credential (Facebook, Twitter, Google), user can change login method to a different third party or to email account ID in [**Manage Your Login Methods in Account Site**](https://accounts.bdrive.com/accounts/social/connections) _(https://accounts.bdrive.com/accounts/social/connections)_ anytime.
 
-_Note user email account ID is used by default if current third party is removed.
-_
+_Note user email account ID is used by default if current third party is removed._
 
 ### **Invoice Link**
 
@@ -140,8 +118,7 @@ User credit card information can be updated by logging in to our payment gateway
 
 - Then, once logged in with BlueSnap user account, click on the 'Change' button under the payment method column where the change of information is able.
 
-_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID.
-_
+_Note licenses purchased prior to October 2, 2018 (paid by FastSpring) cannot change credit card using above instruction. To request to change of credit card, write to our [**Support Site**](#support-site) (https://support.bdrive.com) with user account ID and transaction ID._
 
 ### **End Subscription**
 
