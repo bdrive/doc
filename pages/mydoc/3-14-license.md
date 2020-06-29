@@ -59,7 +59,7 @@ _Note remove license is limited one time per day._
 
 
 ### **Team Manual**
-Information can be found in Team category including how to add Team members and add Team Licenses.
+Information can be found in [**Team category**](2-101-team-manual) including how to add Team members and add Team Licenses.
 
 
 ### **Account Site**
