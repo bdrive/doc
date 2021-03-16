@@ -19,7 +19,7 @@ Once the license purchase is successfully completed, no-reply confirmation email
 
 _Note each account ID can purchase only one license type._
 
-### **Plans In General**
+### **Plans**
 
 NetDrive3 has two kinds of plans, Personal and Team, which can be found in [**Bdrive website**](http://www.netdrive.net/store) _(https://www.netdrive.net/store)_.
 
@@ -35,7 +35,7 @@ Two types of NetDrive3 licenses are available, subscription based and onetime pu
 
 - ‘**Lifetime License**’ literally can be used during product lifetime with selection of ‘_support and update_’ period, either 1 year or lifetime.
 
-  - In case of **‘1 year’ support and update option**, the license can be used for product lifetime with limited support and update of 1 year. For the customers who further need support and update after 1 year expired, additional [**Lifetime Support Option**](#lifetime-support-option) is available. Detailed information can be found in the article ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018).
+  - In case of **‘1 year’ support and update option**, the license can be used for product lifetime with limited support and version update of 1 year. For the customers who further need support and update after 1 year expired, additional [**Lifetime Support Option**](#lifetime-support-option) is available. Detailed information can be found in the article ['What happens to my one-time license (prior product name of current Lifetime license with 1 year support) after 1 year?'](https://support.bdrive.com/t/what-happens-to-my-one-time-license-after-1-year/92018).
 
   - In case of **‘lifetime’ support and update option**, the license will last during product lifetime along with support and update.
 
@@ -45,13 +45,13 @@ _Note Personal plan offers both 1 year and lifetime support option whereas Team 
 
 License can be added to initial purchase order at 'add license' price. The purchase can be proceeded in [**License category in Account Site**](https://accounts.bdrive.com/plans_products/NetDrive3) _(https://accounts.bdrive.com/plans_products/NetDrive3)_.
 
-When placing an add license order, the followings will be proceeded for each plan below:
+When placing an add license order, the followings will be proceeded :
 
-- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order (for 1 year) will be issued for total license quantities at adjusted total price. It is important to know that this order will be auto-renewed on this day, annually, as explained in [**Subscription Auto-Renewal**](#subscription-auto-renewal).
+- ‘**Yearly Subscription**’ will first cancel current (initial or the most recent) purchase order by partial refunding applying ‘prorate’, counting from initial or the most recent purchase day. Then a new Yearly Subscription purchase order for 1 year will be issued for total license quantities at adjusted total price. It is important to know that subscription auto-renewal day is changed to this today as explained in [**Subscription Auto-Renewal**](#subscription-auto-renewal).
 
 - ‘**Lifetime License**’ will issue individual purchase order for each add license request at corresponding add license price.
 
-_Note Yearly Subscription allows both add and remove license option whereas Lifetime License limits to add license only._
+_Note Yearly Subscription allows 'remove' option within 2 weeks after the purchase._
 
 _Note support and update period of added licenses of Lifetime license for 1 year will comply with the license period of 'initial' purchase order (not add license period). Support and update for Yearly Subscription lasts during subscription period._
 
@@ -70,7 +70,7 @@ Each customer needs to [**Create Account ID**](#create-account-id) prior to purc
 
 Yearly Subscription continues yearly base by auto-charging on the initial purchase day of each successive year, using the same payment method. A renewal order will be issued and emailed to user account ID.
 
-User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date. Change Credit Card is available in our payment gateway, BlueSnap.
+User is required to check the expiration date of the credit card before annual auto-charge transaction is proceeded since otherwise it will fail the renewal which eventually leads to the cancellation of the entire subscription immediately. Our customers will receive renewal notification email 7 days prior to the renewal date advising about upcoming auto-charge, so it is important to double check card information including the expiration date, etc. Change Credit Card is available in our payment gateway and please contact us if you need to know the steps.
 
 For any reason, if you need to stop yearly subscription, check [**End Subscription**](#end-subscription) and [**Refund Policy**](#refund-policy) first and then write to our [**Support Site**](#support-site) _(https://support.bdrive.com)_ with account ID and transaction ID.
 
