@@ -110,13 +110,14 @@ A free Team Trial is available for 7 days to assign up to 3 licenses.  It’s av
 4. New purchase order issued
    * Yearly Subscription
      * Your most recent subscription will be cancelled and partially refunded (PRORATE)
-     * A new yearly subscription will be issued for changed ‘Total’ quantity/price
+     * A new yearly subscription will be issued for changed ‘Total’ quantity/price for 1 year
+     * Your auto-renewal day will be changed to today
    * Lifetime License
       * A new order will be issued for added quantity/price
 
 5. Invoice Link : [https://accounts.bdrive.com/accounts/invoices](https://accounts.bdrive.com/accounts/invoices)<br><br>
 
-
+_' Remove' option available within 2 weeks after the purchase only._
 
 
 ### **Team Manual**
