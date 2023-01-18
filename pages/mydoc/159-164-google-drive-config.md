@@ -15,7 +15,7 @@ Choose Google Drive from FROM and/or TO, and then click CONNECT to associate the
 {% include inline_image.html file="google_drive_config_1.jpg" max-width="200" %}
 
 
-{% include inline_image.html file="google_drive_config_2.jpg" max-width="200" %}
+{% include inline_image.html file="google_drive_config_2.png" max-width="200" %}
 
 The authentication window for Google Drive will open in your browser and the CloudSync Application will return to the "Wait for authentication" state, waiting for you to authenticate to Google Drive. Click Grant to connect to CloudSync.
 
